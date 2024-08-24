@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 
 <a href="https://github.com/dinhphucaz52/MUSIC-APP/">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dinhphucaz52&repo=MUSIC-APP&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dinhphucaz2005&repo=MUSIC-APP&theme=radical" />
 </a> 
 
 <a href="https://github.com/dinhphucaz2005/Food-Ordering">
