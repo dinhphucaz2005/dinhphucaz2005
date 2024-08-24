@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dinhphucaz52/)      [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/dinhphucaz52/)
 
 
-<a href="https://github.com/dinhphucaz52/MUSIC-APP/">
+<a href="https://github.com/dinhphucaz2005/MUSIC-APP/">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=dinhphucaz2005&repo=MUSIC-APP&theme=radical" />
 </a> 
 
